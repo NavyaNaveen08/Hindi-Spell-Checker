@@ -21,7 +21,7 @@ This project develops a **Statistical Language Model (SLM)** for **spell-checkin
 - **Hybrid Correction**: Combines n-gram probabilities with edit distance.  
 
 ## **Dataset**  
-⚠ **Note**: The dataset used for training is **not uploaded** due to privacy issues.  
+**Note**: The dataset used for training is **not uploaded** due to privacy issues.  
 
 ## **Implementation Details**  
 ### **1️⃣ Preprocessing**  
