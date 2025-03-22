@@ -17,7 +17,7 @@ The system identifies spelling errors, introduces artificial typos for evaluatio
 
 If you wish to run the code, please use your own **Hindi text datasets** and update the file paths in the script accordingly.  
 
-## ⚙️ Implementation Details  
+##  Implementation Details  
 🔹 **Text Preprocessing**: Reads Hindi text, removes special characters, and tokenizes words.  
 🔹 **N-gram Probability Calculation**:  
 &nbsp;&nbsp;&nbsp;&nbsp; Unigrams, bigrams, trigrams, and four-grams are computed.  
