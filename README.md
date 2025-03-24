@@ -12,10 +12,8 @@ This project develops a **Statistical Language Model (SLM)** for **spell-checkin
 ✔ **Evaluated Model Performance**:  
 - Introduced artificial typos to test spell correction.  
 - Measured **accuracy** as:  
-  \[
-  \text{Accuracy} = \frac{\text{Total Correct Spellings}}{\text{Total Words Tested (50)}}
-  \]  
-
+  Accuracy= Total Correct Spellings/Total Words Tested
+ 
 ✔ **Implemented Spell Correction Techniques**:  
 - **Levenshtein Distance**: Finds the closest correct word.  
 - **Hybrid Correction**: Combines n-gram probabilities with edit distance.  
